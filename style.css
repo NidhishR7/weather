@@ -1,8 +1,5 @@
-body{
-    background: linear-gradient(180deg, #1C9CF6 0%, rgba(176, 226, 233, 0.87) 100%);
-   
-}
-.main{
-    background: linear-gradient(181.61deg, rgba(255, 255, 255, 0.514) 1.25%, rgba(255, 255, 255, 0.363) 91.45%);
-    border-radius: 10px;
+.foot{
+    background: rgba(255, 255, 255, 0.4);
+box-shadow: 6px 9px 23px 2px rgba(0, 0, 0, 0.2);
+border-radius: 22px;
 }
